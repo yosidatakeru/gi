@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello scdfvewfevorld!\n";
+    std::cout << "oaroraohraoradfvewfevorld!\n";
+    std::cout << "死になさいfevorld!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
